@@ -8,4 +8,4 @@ Your goals for this year
 To change my current job from a machine programmer to a web developer
 
 Reasons why you want to be a web developer
-To change my career and to pursue a web developer  -->
+To change my career and to pursue a web development industry  -->
