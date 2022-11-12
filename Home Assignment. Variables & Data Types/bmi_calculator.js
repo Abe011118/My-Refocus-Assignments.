@@ -7,4 +7,21 @@ const BMI = (weightInkg, heightIncm) => {
     return  Math.round(weightInkg/sqHt * 10) / 10;
 };
 
+<<<<<<< HEAD
 BMI(65, 169);
+=======
+// BMI(60, 152);
+
+// this is a manual testing
+
+function test(){
+    const result = BMI(65, 169);
+    const expected = 22.8;
+
+    console.assert(
+        result === expected, 
+            `The result ${result} doesn't match the expected value ${expected}.`
+    )
+}
+test();
+>>>>>>> testing/bmi-calculator
